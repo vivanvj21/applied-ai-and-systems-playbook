@@ -12,3 +12,5 @@ Production module delivering verified patterns, unit tests, and performance benc
 ### Activity & Changelog:
 
 - **[2025-10-08 21:53]** design LangGraph supervisor router with TypedDict state (Commit #8)
+
+- **[2025-10-09 20:11]** decouple supervisor decision logic from subagent execution (Commit #9)
