@@ -1,0 +1,14 @@
+# Add RAGAS faithfulness and context recall automated metrics
+
+**Discipline:** `01-ai-engineering`  
+**Created:** `2025-10-13T11:56:36+05:30`  
+**Author:** Vishnuvardhana S  
+
+---
+
+## 1. Technical Specification & Implementation
+Production module delivering verified patterns, unit tests, and performance benchmarks for **add RAGAS faithfulness and context recall automated metrics**.
+
+### Activity & Changelog:
+
+- **[2025-10-13 11:56]** add RAGAS faithfulness and context recall automated metrics (Commit #12)
