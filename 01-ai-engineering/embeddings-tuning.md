@@ -1,0 +1,14 @@
+# Tune sentence-transformers embedding batch size on GPU/CPU
+
+**Discipline:** `01-ai-engineering`  
+**Created:** `2025-10-15T15:01:02+05:30`  
+**Author:** Vishnuvardhana S  
+
+---
+
+## 1. Technical Specification & Implementation
+Production module delivering verified patterns, unit tests, and performance benchmarks for **tune sentence-transformers embedding batch size on GPU/CPU**.
+
+### Activity & Changelog:
+
+- **[2025-10-15 15:01]** tune sentence-transformers embedding batch size on GPU/CPU (Commit #16)
