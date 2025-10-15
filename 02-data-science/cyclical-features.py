@@ -1,0 +1,14 @@
+# Add cyclical sine-cosine encoding for day-of-week and month
+
+**Discipline:** `02-data-science`  
+**Created:** `2025-10-15T15:37:18+05:30`  
+**Author:** Vishnuvardhana S  
+
+---
+
+## 1. Technical Specification & Implementation
+Production module delivering verified patterns, unit tests, and performance benchmarks for **add cyclical sine-cosine encoding for day-of-week and month**.
+
+### Activity & Changelog:
+
+- **[2025-10-15 15:37]** add cyclical sine-cosine encoding for day-of-week and month (Commit #18)
