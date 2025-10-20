@@ -1,0 +1,14 @@
+# Implement temporal train-test split preventing data leakage
+
+**Discipline:** `02-data-science`  
+**Created:** `2025-10-20T16:28:49+05:30`  
+**Author:** Vishnuvardhana S  
+
+---
+
+## 1. Technical Specification & Implementation
+Production module delivering verified patterns, unit tests, and performance benchmarks for **implement temporal train-test split preventing data leakage**.
+
+### Activity & Changelog:
+
+- **[2025-10-20 16:28]** implement temporal train-test split preventing data leakage (Commit #28)
