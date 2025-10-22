@@ -1,0 +1,14 @@
+# Add Azure API Management inbound XML policy for Entra ID JWT
+
+**Discipline:** `03-fullstack-software-dev`  
+**Created:** `2025-10-22T20:52:01+05:30`  
+**Author:** Vishnuvardhana S  
+
+---
+
+## 1. Technical Specification & Implementation
+Production module delivering verified patterns, unit tests, and performance benchmarks for **add Azure API Management inbound XML policy for Entra ID JWT**.
+
+### Activity & Changelog:
+
+- **[2025-10-22 20:52]** add Azure API Management inbound XML policy for Entra ID JWT (Commit #34)
