@@ -1,0 +1,14 @@
+# Author modular Bicep templates for APIM, Functions and Key Vault
+
+**Discipline:** `03-fullstack-software-dev`  
+**Created:** `2025-10-23T12:44:42+05:30`  
+**Author:** Vishnuvardhana S  
+
+---
+
+## 1. Technical Specification & Implementation
+Production module delivering verified patterns, unit tests, and performance benchmarks for **author modular Bicep templates for APIM, Functions and Key Vault**.
+
+### Activity & Changelog:
+
+- **[2025-10-23 12:44]** author modular Bicep templates for APIM, Functions and Key Vault (Commit #35)
