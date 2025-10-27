@@ -1,0 +1,14 @@
+# Implement DAX time-intelligence calculations for YoY and MoM variance
+
+**Discipline:** `04-data-analytics`  
+**Created:** `2025-10-27T13:26:26+05:30`  
+**Author:** Vishnuvardhana S  
+
+---
+
+## 1. Technical Specification & Implementation
+Production module delivering verified patterns, unit tests, and performance benchmarks for **implement DAX time-intelligence calculations for YoY and MoM variance**.
+
+### Activity & Changelog:
+
+- **[2025-10-27 13:26]** implement DAX time-intelligence calculations for YoY and MoM variance (Commit #43)
