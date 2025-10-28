@@ -12,3 +12,5 @@ Production module delivering verified patterns, unit tests, and performance benc
 ### Activity & Changelog:
 
 - **[2025-10-28 12:44]** formulate multi-tier SLA turnaround cycle time measures in DAX (Commit #44)
+
+- **[2025-10-28 13:48]** optimize calculate filter context to leverage VertiPaq engine (Commit #45)
