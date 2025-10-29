@@ -1,0 +1,14 @@
+# Develop dynamic metric switching calculation groups in DAX
+
+**Discipline:** `04-data-analytics`  
+**Created:** `2025-10-29T12:20:54+05:30`  
+**Author:** Vishnuvardhana S  
+
+---
+
+## 1. Technical Specification & Implementation
+Production module delivering verified patterns, unit tests, and performance benchmarks for **develop dynamic metric switching calculation groups in DAX**.
+
+### Activity & Changelog:
+
+- **[2025-10-29 12:20]** develop dynamic metric switching calculation groups in DAX (Commit #49)
