@@ -1,0 +1,14 @@
+# Create cohort retention analysis queries using recursive CTEs
+
+**Discipline:** `04-data-analytics`  
+**Created:** `2025-10-29T14:56:04+05:30`  
+**Author:** Vishnuvardhana S  
+
+---
+
+## 1. Technical Specification & Implementation
+Production module delivering verified patterns, unit tests, and performance benchmarks for **create cohort retention analysis queries using recursive CTEs**.
+
+### Activity & Changelog:
+
+- **[2025-10-29 14:56]** create cohort retention analysis queries using recursive CTEs (Commit #51)
