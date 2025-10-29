@@ -1,0 +1,14 @@
+# Add 90th percentile SLA turnaround time DAX calculations
+
+**Discipline:** `04-data-analytics`  
+**Created:** `2025-10-29T17:34:14+05:30`  
+**Author:** Vishnuvardhana S  
+
+---
+
+## 1. Technical Specification & Implementation
+Production module delivering verified patterns, unit tests, and performance benchmarks for **add 90th percentile SLA turnaround time DAX calculations**.
+
+### Activity & Changelog:
+
+- **[2025-10-29 17:34]** add 90th percentile SLA turnaround time DAX calculations (Commit #53)
