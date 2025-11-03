@@ -15,3 +15,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 
 - **[2025-10-15 21:03]** prevent cross-category data leakage in rolling window calculations (Commit #20)
 - **[2025-11-03 19:09]** build multi-horizon lag feature generator for retail POS (Commit #72)
+- **[2025-11-03 19:45]** prevent cross-category data leakage in rolling window calculations (Commit #73)
