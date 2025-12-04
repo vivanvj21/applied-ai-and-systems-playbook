@@ -14,3 +14,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2025-10-28 18:35]** write SQL window functions for running totals and 7d moving average (Commit #46)
 
 - **[2025-11-15 11:35]** write SQL window functions for running totals and 7d moving average (Commit #99)
+- **[2025-12-04 11:56]** write SQL window functions for running totals and 7d moving average (Commit #152)
