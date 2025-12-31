@@ -21,3 +21,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2025-12-09 11:37]** implement recursive character chunking benchmark (Commit #161)
 - **[2025-12-09 12:22]** resolve chunk overlap boundary truncation in tokenizer (Commit #162)
 - **[2025-12-31 11:07]** implement recursive character chunking benchmark (Commit #214)
+- **[2025-12-31 14:20]** resolve chunk overlap boundary truncation in tokenizer (Commit #215)
