@@ -16,3 +16,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2025-11-03 16:28]** add cyclical sine-cosine encoding for day-of-week and month (Commit #71)
 - **[2025-11-25 11:10]** add cyclical sine-cosine encoding for day-of-week and month (Commit #124)
 - **[2025-12-16 10:42]** add cyclical sine-cosine encoding for day-of-week and month (Commit #177)
+- **[2026-01-06 16:34]** add cyclical sine-cosine encoding for day-of-week and month (Commit #230)
