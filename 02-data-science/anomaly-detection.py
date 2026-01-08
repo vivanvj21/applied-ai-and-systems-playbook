@@ -16,3 +16,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2025-11-11 09:52]** implement Isolation Forest pipeline for promotional anomaly detection (Commit #78)
 - **[2025-11-27 11:10]** implement Isolation Forest pipeline for promotional anomaly detection (Commit #131)
 - **[2025-12-16 18:03]** implement Isolation Forest pipeline for promotional anomaly detection (Commit #184)
+- **[2026-01-08 12:46]** implement Isolation Forest pipeline for promotional anomaly detection (Commit #237)
