@@ -16,3 +16,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2025-11-11 10:37]** integrate TreeSHAP for feature importance and attribution (Commit #79)
 - **[2025-11-27 17:26]** integrate TreeSHAP for feature importance and attribution (Commit #132)
 - **[2025-12-17 09:10]** integrate TreeSHAP for feature importance and attribution (Commit #185)
+- **[2026-01-13 10:12]** integrate TreeSHAP for feature importance and attribution (Commit #238)
