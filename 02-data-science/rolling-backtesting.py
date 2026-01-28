@@ -17,3 +17,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2025-11-26 20:58]** implement TimeSeriesSplit rolling-origin cross-validation (Commit #129)
 - **[2025-12-16 15:50]** implement TimeSeriesSplit rolling-origin cross-validation (Commit #182)
 - **[2026-01-07 16:45]** implement TimeSeriesSplit rolling-origin cross-validation (Commit #235)
+- **[2026-01-28 20:15]** implement TimeSeriesSplit rolling-origin cross-validation (Commit #288)
