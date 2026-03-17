@@ -28,3 +28,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2026-02-10 18:04]** sanitize MCP tool parameters against prompt injection (Commit #329)
 - **[2026-02-26 11:59]** implement Model Context Protocol stdio tool bindings (Commit #381)
 - **[2026-02-26 13:13]** sanitize MCP tool parameters against prompt injection (Commit #382)
+- **[2026-03-17 15:13]** implement Model Context Protocol stdio tool bindings (Commit #434)
