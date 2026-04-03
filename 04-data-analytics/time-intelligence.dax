@@ -20,3 +20,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2026-02-03 14:54]** implement DAX time-intelligence calculations for YoY and MoM variance (Commit #308)
 - **[2026-02-21 13:07]** implement DAX time-intelligence calculations for YoY and MoM variance (Commit #361)
 - **[2026-03-09 12:20]** implement DAX time-intelligence calculations for YoY and MoM variance (Commit #414)
+- **[2026-04-03 09:43]** implement DAX time-intelligence calculations for YoY and MoM variance (Commit #467)
