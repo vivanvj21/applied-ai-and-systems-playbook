@@ -22,3 +22,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2026-03-08 18:32]** add Spectral ruleset linting for OpenAPI 3.0 specs (Commit #411)
 - **[2026-04-01 14:49]** add Spectral ruleset linting for OpenAPI 3.0 specs (Commit #464)
 - **[2026-04-23 10:32]** add Spectral ruleset linting for OpenAPI 3.0 specs (Commit #517)
+- **[2026-05-15 21:33]** add Spectral ruleset linting for OpenAPI 3.0 specs (Commit #570)
