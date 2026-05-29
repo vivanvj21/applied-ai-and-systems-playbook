@@ -23,3 +23,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2026-03-26 21:42]** implement thread-safe sliding window rate limiter (Commit #455)
 - **[2026-04-15 15:53]** implement thread-safe sliding window rate limiter (Commit #508)
 - **[2026-05-14 13:27]** implement thread-safe sliding window rate limiter (Commit #561)
+- **[2026-05-29 10:56]** implement thread-safe sliding window rate limiter (Commit #614)
