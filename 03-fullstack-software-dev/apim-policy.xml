@@ -25,3 +25,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2026-05-14 17:47]** add Azure API Management inbound XML policy for Entra ID JWT (Commit #564)
 - **[2026-05-29 16:34]** add Azure API Management inbound XML policy for Entra ID JWT (Commit #617)
 - **[2026-06-25 19:37]** add Azure API Management inbound XML policy for Entra ID JWT (Commit #670)
+- **[2026-07-08 21:36]** add Azure API Management inbound XML policy for Entra ID JWT (Commit #723)
