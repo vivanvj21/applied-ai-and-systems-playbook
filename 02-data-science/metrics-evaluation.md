@@ -25,3 +25,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2026-05-12 21:51]** evaluate MAPE vs Weighted MAPE on zero-inflated demand (Commit #557)
 - **[2026-05-28 14:22]** evaluate MAPE vs Weighted MAPE on zero-inflated demand (Commit #610)
 - **[2026-06-24 17:40]** evaluate MAPE vs Weighted MAPE on zero-inflated demand (Commit #663)
+- **[2026-07-08 11:26]** evaluate MAPE vs Weighted MAPE on zero-inflated demand (Commit #716)
