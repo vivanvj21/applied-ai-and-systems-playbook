@@ -25,3 +25,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2026-05-14 20:58]** author modular Bicep templates for APIM, Functions and Key Vault (Commit #565)
 - **[2026-05-29 21:46]** author modular Bicep templates for APIM, Functions and Key Vault (Commit #618)
 - **[2026-06-25 20:53]** author modular Bicep templates for APIM, Functions and Key Vault (Commit #671)
+- **[2026-07-09 09:42]** author modular Bicep templates for APIM, Functions and Key Vault (Commit #724)
