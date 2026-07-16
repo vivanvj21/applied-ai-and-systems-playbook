@@ -25,3 +25,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2026-05-20 20:19]** model Dataverse relational tables, choice sets and RBAC roles (Commit #577)
 - **[2026-06-08 12:20]** model Dataverse relational tables, choice sets and RBAC roles (Commit #630)
 - **[2026-06-30 20:24]** model Dataverse relational tables, choice sets and RBAC roles (Commit #683)
+- **[2026-07-16 18:28]** model Dataverse relational tables, choice sets and RBAC roles (Commit #736)
