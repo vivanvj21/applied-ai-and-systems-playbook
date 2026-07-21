@@ -26,3 +26,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2026-05-25 15:51]** implement Reciprocal Rank Fusion formula for hybrid search (Commit #589)
 - **[2026-06-17 13:32]** implement Reciprocal Rank Fusion formula for hybrid search (Commit #642)
 - **[2026-07-02 16:14]** implement Reciprocal Rank Fusion formula for hybrid search (Commit #695)
+- **[2026-07-21 17:50]** implement Reciprocal Rank Fusion formula for hybrid search (Commit #748)
