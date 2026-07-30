@@ -26,3 +26,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2026-05-26 15:23]** tune sentence-transformers embedding batch size on GPU/CPU (Commit #599)
 - **[2026-06-22 15:34]** tune sentence-transformers embedding batch size on GPU/CPU (Commit #652)
 - **[2026-07-06 10:52]** tune sentence-transformers embedding batch size on GPU/CPU (Commit #705)
+- **[2026-07-30 16:03]** tune sentence-transformers embedding batch size on GPU/CPU (Commit #758)
