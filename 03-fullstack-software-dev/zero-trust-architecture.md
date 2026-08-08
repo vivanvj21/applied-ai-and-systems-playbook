@@ -26,3 +26,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2026-06-07 14:01]** document Zero-Trust defense-in-depth architecture across tiers (Commit #624)
 - **[2026-06-28 14:37]** document Zero-Trust defense-in-depth architecture across tiers (Commit #677)
 - **[2026-07-14 13:18]** document Zero-Trust defense-in-depth architecture across tiers (Commit #730)
+- **[2026-08-08 21:39]** document Zero-Trust defense-in-depth architecture across tiers (Commit #783)
