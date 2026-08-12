@@ -26,3 +26,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2026-06-09 10:51]** implement dynamic Row-Level Security based on UserPrincipalName (Commit #633)
 - **[2026-07-01 15:09]** implement dynamic Row-Level Security based on UserPrincipalName (Commit #686)
 - **[2026-07-20 11:48]** implement dynamic Row-Level Security based on UserPrincipalName (Commit #739)
+- **[2026-08-12 18:07]** implement dynamic Row-Level Security based on UserPrincipalName (Commit #792)
