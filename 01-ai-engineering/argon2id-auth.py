@@ -27,3 +27,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2026-06-19 14:44]** implement Argon2id credential hashing with constant time check (Commit #649)
 - **[2026-07-05 12:29]** implement Argon2id credential hashing with constant time check (Commit #702)
 - **[2026-07-29 11:22]** implement Argon2id credential hashing with constant time check (Commit #755)
+- **[2026-08-20 09:13]** implement Argon2id credential hashing with constant time check (Commit #808)
