@@ -27,3 +27,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2026-06-25 19:36]** configure Azure Functions v4 TypeScript http triggers and routing (Commit #669)
 - **[2026-07-08 21:34]** configure Azure Functions v4 TypeScript http triggers and routing (Commit #722)
 - **[2026-08-08 09:54]** configure Azure Functions v4 TypeScript http triggers and routing (Commit #775)
+- **[2026-08-25 13:33]** configure Azure Functions v4 TypeScript http triggers and routing (Commit #828)
