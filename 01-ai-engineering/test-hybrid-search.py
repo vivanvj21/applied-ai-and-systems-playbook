@@ -28,3 +28,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2026-07-02 18:22]** add unit test verifying RRF score normalization (Commit #696)
 - **[2026-07-21 21:13]** add unit test verifying RRF score normalization (Commit #749)
 - **[2026-08-17 17:24]** add unit test verifying RRF score normalization (Commit #802)
+- **[2026-09-04 16:02]** add unit test verifying RRF score normalization (Commit #855)
