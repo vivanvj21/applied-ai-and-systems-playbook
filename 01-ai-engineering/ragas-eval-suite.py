@@ -28,3 +28,4 @@ Production module delivering verified patterns, unit tests, and performance benc
 - **[2026-07-04 16:59]** add RAGAS faithfulness and context recall automated metrics (Commit #701)
 - **[2026-07-28 13:20]** add RAGAS faithfulness and context recall automated metrics (Commit #754)
 - **[2026-08-19 17:03]** add RAGAS faithfulness and context recall automated metrics (Commit #807)
+- **[2026-09-05 15:51]** add RAGAS faithfulness and context recall automated metrics (Commit #860)
